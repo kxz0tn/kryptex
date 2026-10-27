@@ -22,11 +22,23 @@ A portrait, classic-style neon arcade memory game for phones and desktop browser
 <img src="docs/screenshots/core.png" width="180" alt="Sector 5: Kryptex Core">
 <img src="docs/screenshots/first-contact.png" width="180" alt="Ending: First Contact established">
 
-📱 **Android APK coming soon**
+### [⬇ DOWNLOAD FOR ANDROID (APK)](https://github.com/kxz0tn/kryptex/releases/latest/download/Kryptex-v1.0.0.apk)
+
+[![Download for Android](https://img.shields.io/badge/Download-Android%20APK-22e2ff?style=for-the-badge&logo=android&logoColor=white)](https://github.com/kxz0tn/kryptex/releases/latest/download/Kryptex-v1.0.0.apk)
+[![Latest release](https://img.shields.io/github/v/release/kxz0tn/kryptex?style=for-the-badge&color=8a3cff)](https://github.com/kxz0tn/kryptex/releases/latest)
 
 </div>
 
 ---
+
+## Install on Android
+
+1. **[Download Kryptex-v1.0.0.apk](https://github.com/kxz0tn/kryptex/releases/latest/download/Kryptex-v1.0.0.apk)** (about 4 MB, Android 7.0+).
+2. Open the downloaded file.
+3. If asked, allow **Install unknown apps** for your browser or file manager.
+4. Tap **Install**, then open Kryptex.
+
+Checksums, the signing certificate fingerprint and release notes are on the [Releases page](https://github.com/kxz0tn/kryptex/releases). The Android app is fully offline and plays the same game as the web version.
 
 ## About
 
